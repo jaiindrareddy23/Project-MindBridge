@@ -1,0 +1,11 @@
+cat > .gitignore << EOF
+venv/
+__pycache__/
+*.pyc
+.env
+data/
+models/
+plots/
+results/
+.DS_Store
+EOF
