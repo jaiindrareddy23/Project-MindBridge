@@ -1,0 +1,501 @@
+student_id,age,year,major,dorm,gpa_start,trajectory,onset_week,base_mood,has_history,scholarship,first_gen
+STU0001,18,Freshman,Mathematics,West Hall,3.81,healthy,,8.2,False,False,False
+STU0002,19,Senior,Mathematics,South Hall,3.51,declining,8.0,6.99,True,False,True
+STU0003,26,Sophomore,English,West Hall,3.01,healthy,,7.42,True,False,False
+STU0004,23,Freshman,Engineering,Graduate House,2.98,healthy,,7.99,False,False,False
+STU0005,22,Graduate,Business,South Hall,2.64,healthy,,6.99,False,False,False
+STU0006,20,Graduate,Mathematics,East Hall,2.63,healthy,,8.97,False,False,False
+STU0007,24,Graduate,Mathematics,Off-Campus,3.35,declining,5.0,7.3,True,False,False
+STU0008,26,Senior,Business,Off-Campus,3.94,healthy,,7.32,True,False,False
+STU0009,23,Freshman,Biology,Off-Campus,2.71,healthy,,7.79,False,False,True
+STU0010,21,Senior,Mathematics,North Hall,3.28,declining,4.0,5.44,False,False,False
+STU0011,24,Senior,Nursing,South Hall,3.08,crisis,13.0,6.68,True,False,False
+STU0012,24,Sophomore,Business,Off-Campus,3.62,crisis,8.0,6.34,False,True,True
+STU0013,19,Senior,Business,West Hall,3.05,healthy,,8.07,False,False,False
+STU0014,25,Graduate,Political Science,West Hall,3.57,healthy,,7.26,False,False,False
+STU0015,25,Senior,Engineering,South Hall,3.59,crisis,13.0,7.13,False,True,False
+STU0016,25,Sophomore,Engineering,West Hall,2.72,healthy,,7.42,True,True,True
+STU0017,26,Freshman,Business,South Hall,3.6,declining,6.0,8.42,True,False,False
+STU0018,19,Senior,Nursing,East Hall,3.82,healthy,,8.09,False,False,True
+STU0019,24,Senior,Mathematics,Off-Campus,3.53,healthy,,7.77,True,False,False
+STU0020,18,Junior,Engineering,West Hall,2.4,declining,7.0,6.93,False,False,False
+STU0021,26,Graduate,Biology,West Hall,2.99,crisis,13.0,8.28,True,False,True
+STU0022,28,Senior,Business,West Hall,3.33,declining,6.0,6.75,False,False,False
+STU0023,27,Graduate,Computer Science,North Hall,3.59,declining,7.0,7.66,False,True,False
+STU0024,22,Senior,English,South Hall,2.61,declining,4.0,6.91,False,True,False
+STU0025,22,Senior,Engineering,North Hall,3.11,healthy,,8.04,False,False,True
+STU0026,21,Freshman,Computer Science,North Hall,2.88,crisis,10.0,6.46,False,True,True
+STU0027,20,Sophomore,Business,West Hall,3.27,healthy,,7.67,False,False,True
+STU0028,22,Junior,Business,Graduate House,3.19,healthy,,8.01,False,False,True
+STU0029,20,Junior,Psychology,Graduate House,3.32,healthy,,7.85,True,True,False
+STU0030,24,Senior,Biology,North Hall,3.5,healthy,,7.77,False,False,True
+STU0031,22,Graduate,Psychology,Graduate House,2.64,healthy,,8.43,False,True,False
+STU0032,23,Freshman,Political Science,Off-Campus,2.97,healthy,,8.27,False,False,False
+STU0033,19,Senior,English,Off-Campus,3.23,healthy,,7.88,False,False,True
+STU0034,20,Graduate,Engineering,Graduate House,3.82,healthy,,6.95,False,False,False
+STU0035,27,Junior,English,South Hall,2.71,declining,7.0,6.91,False,True,False
+STU0036,21,Senior,Mathematics,Graduate House,3.27,healthy,,7.98,False,True,False
+STU0037,20,Senior,Biology,East Hall,2.67,crisis,10.0,5.56,False,True,False
+STU0038,22,Graduate,Computer Science,Graduate House,3.34,healthy,,8.22,False,True,False
+STU0039,25,Graduate,Biology,Off-Campus,2.91,healthy,,7.26,False,False,False
+STU0040,18,Freshman,Engineering,South Hall,3.46,healthy,,9.29,False,True,False
+STU0041,25,Graduate,Political Science,East Hall,2.87,declining,6.0,7.91,False,False,False
+STU0042,25,Junior,Engineering,East Hall,3.96,healthy,,8.57,False,False,False
+STU0043,26,Sophomore,Biology,South Hall,2.87,healthy,,7.6,False,True,False
+STU0044,26,Graduate,Engineering,North Hall,3.53,healthy,,7.74,False,True,False
+STU0045,18,Graduate,Business,East Hall,4.0,declining,6.0,8.51,True,True,False
+STU0046,20,Senior,Psychology,North Hall,3.39,healthy,,8.3,False,False,False
+STU0047,20,Freshman,Engineering,West Hall,3.17,healthy,,7.62,True,True,False
+STU0048,28,Freshman,Business,South Hall,3.54,declining,8.0,5.84,False,False,True
+STU0049,21,Freshman,Political Science,West Hall,3.35,healthy,,7.97,False,False,True
+STU0050,26,Senior,Economics,West Hall,2.74,healthy,,7.09,False,False,False
+STU0051,27,Graduate,Computer Science,Graduate House,3.62,healthy,,8.09,False,True,False
+STU0052,28,Sophomore,Engineering,Off-Campus,3.41,healthy,,6.7,True,True,False
+STU0053,18,Senior,Economics,Off-Campus,3.65,crisis,9.0,7.37,False,True,True
+STU0054,22,Senior,Psychology,Off-Campus,3.5,declining,9.0,7.79,True,True,False
+STU0055,27,Sophomore,Nursing,North Hall,3.23,healthy,,7.18,False,False,False
+STU0056,20,Freshman,Computer Science,South Hall,2.55,healthy,,9.65,False,False,False
+STU0057,25,Freshman,Economics,Off-Campus,2.77,declining,6.0,8.18,True,False,True
+STU0058,26,Senior,Economics,North Hall,3.29,healthy,,7.23,False,False,False
+STU0059,27,Junior,Computer Science,North Hall,3.45,healthy,,7.84,False,False,False
+STU0060,18,Junior,Mathematics,North Hall,3.54,declining,8.0,7.37,False,True,False
+STU0061,25,Junior,Business,Graduate House,3.55,healthy,,7.17,False,False,False
+STU0062,23,Senior,English,East Hall,2.94,declining,7.0,6.9,False,False,False
+STU0063,25,Junior,Nursing,Graduate House,3.57,healthy,,9.21,True,True,True
+STU0064,19,Senior,Political Science,North Hall,3.01,healthy,,9.5,False,False,False
+STU0065,21,Graduate,English,Graduate House,3.51,healthy,,8.81,False,False,False
+STU0066,21,Junior,Political Science,South Hall,2.79,healthy,,7.06,False,False,False
+STU0067,18,Graduate,Biology,Off-Campus,2.63,declining,4.0,6.08,True,False,False
+STU0068,19,Sophomore,Psychology,West Hall,2.63,healthy,,7.45,False,False,True
+STU0069,22,Graduate,Engineering,West Hall,3.38,declining,9.0,7.21,False,False,True
+STU0070,20,Senior,Biology,Graduate House,3.05,crisis,12.0,6.87,False,False,False
+STU0071,22,Senior,English,Graduate House,2.7,healthy,,7.89,False,True,False
+STU0072,27,Senior,Business,West Hall,3.44,crisis,12.0,6.65,False,True,False
+STU0073,24,Senior,English,South Hall,3.0,declining,8.0,6.64,False,True,False
+STU0074,18,Junior,Economics,Off-Campus,2.92,declining,7.0,7.96,False,False,False
+STU0075,20,Senior,Computer Science,South Hall,3.45,crisis,13.0,7.61,False,False,False
+STU0076,19,Graduate,Economics,North Hall,3.44,crisis,11.0,7.55,False,False,False
+STU0077,20,Freshman,Economics,East Hall,2.96,healthy,,7.78,False,False,False
+STU0078,28,Graduate,Nursing,East Hall,3.64,declining,6.0,7.02,False,False,False
+STU0079,26,Freshman,Mathematics,North Hall,3.21,healthy,,8.46,False,False,False
+STU0080,21,Freshman,Nursing,North Hall,3.15,healthy,,8.35,False,False,True
+STU0081,20,Junior,Computer Science,North Hall,4.0,healthy,,7.88,False,True,False
+STU0082,24,Sophomore,Biology,Graduate House,3.52,healthy,,7.0,False,False,True
+STU0083,19,Graduate,Nursing,Graduate House,2.84,crisis,9.0,6.79,False,False,False
+STU0084,21,Senior,Engineering,West Hall,3.14,healthy,,7.86,False,True,False
+STU0085,28,Graduate,Business,North Hall,2.97,declining,6.0,6.91,False,True,False
+STU0086,24,Junior,Economics,East Hall,3.0,crisis,13.0,7.04,True,False,False
+STU0087,24,Graduate,English,Graduate House,2.64,declining,5.0,7.41,True,False,True
+STU0088,28,Senior,Engineering,North Hall,3.79,healthy,,7.23,False,False,False
+STU0089,27,Senior,Engineering,South Hall,2.8,crisis,8.0,6.78,False,False,False
+STU0090,27,Junior,Business,Off-Campus,2.87,healthy,,7.79,True,False,True
+STU0091,25,Freshman,Mathematics,East Hall,3.36,healthy,,8.22,False,True,False
+STU0092,24,Sophomore,Biology,South Hall,3.21,healthy,,8.35,False,False,False
+STU0093,22,Sophomore,Engineering,West Hall,3.4,declining,8.0,6.5,False,True,False
+STU0094,19,Senior,Psychology,South Hall,2.89,healthy,,8.96,False,True,False
+STU0095,28,Senior,Political Science,East Hall,2.88,healthy,,8.5,True,False,True
+STU0096,19,Senior,English,Off-Campus,2.99,healthy,,7.13,False,True,False
+STU0097,28,Junior,Psychology,Off-Campus,3.95,healthy,,7.19,False,True,False
+STU0098,23,Graduate,Biology,Off-Campus,3.4,crisis,12.0,5.9,True,False,False
+STU0099,28,Senior,Psychology,South Hall,3.01,declining,6.0,8.85,True,True,False
+STU0100,19,Freshman,Biology,Graduate House,3.7,healthy,,6.43,True,False,False
+STU0101,26,Senior,Mathematics,Off-Campus,3.22,healthy,,6.52,False,False,False
+STU0102,27,Senior,Engineering,North Hall,3.14,declining,7.0,7.76,False,True,False
+STU0103,21,Junior,Psychology,Off-Campus,2.75,healthy,,7.9,False,False,False
+STU0104,24,Junior,Biology,North Hall,2.9,declining,4.0,8.35,False,False,True
+STU0105,21,Graduate,Computer Science,North Hall,3.23,healthy,,9.04,False,True,True
+STU0106,21,Freshman,Political Science,South Hall,3.59,declining,8.0,8.78,False,False,True
+STU0107,20,Graduate,Computer Science,East Hall,3.47,healthy,,8.32,False,True,True
+STU0108,20,Freshman,Computer Science,South Hall,2.38,declining,6.0,5.62,True,False,True
+STU0109,23,Freshman,Business,East Hall,3.23,healthy,,7.58,True,False,False
+STU0110,19,Senior,Economics,East Hall,3.18,declining,9.0,5.96,False,True,False
+STU0111,27,Freshman,Political Science,East Hall,3.16,healthy,,8.11,False,False,True
+STU0112,24,Senior,Psychology,West Hall,2.82,declining,7.0,7.8,False,False,False
+STU0113,23,Graduate,Business,North Hall,3.58,healthy,,7.39,True,False,False
+STU0114,23,Senior,Mathematics,Graduate House,2.88,healthy,,7.01,False,False,False
+STU0115,19,Graduate,Biology,West Hall,2.72,declining,9.0,6.27,False,True,False
+STU0116,24,Senior,Psychology,East Hall,3.29,crisis,11.0,6.1,False,False,False
+STU0117,28,Senior,Psychology,North Hall,3.5,crisis,9.0,7.41,False,True,True
+STU0118,23,Sophomore,Political Science,North Hall,2.28,healthy,,7.38,False,False,False
+STU0119,19,Senior,English,Off-Campus,3.1,healthy,,6.59,False,False,False
+STU0120,18,Junior,Mathematics,East Hall,3.65,healthy,,8.26,False,False,True
+STU0121,28,Senior,Biology,North Hall,3.28,healthy,,7.7,False,False,True
+STU0122,27,Sophomore,Nursing,Graduate House,2.77,declining,6.0,5.92,False,False,False
+STU0123,26,Freshman,Mathematics,Off-Campus,3.79,crisis,13.0,6.79,False,True,True
+STU0124,22,Junior,English,North Hall,3.42,healthy,,7.86,False,True,False
+STU0125,20,Freshman,Psychology,Off-Campus,2.65,declining,4.0,7.03,False,False,False
+STU0126,23,Junior,English,Graduate House,3.43,crisis,9.0,5.4,False,False,True
+STU0127,18,Freshman,Engineering,West Hall,2.85,declining,8.0,6.76,False,False,False
+STU0128,22,Sophomore,Political Science,North Hall,3.18,healthy,,7.84,False,True,False
+STU0129,27,Senior,Political Science,Off-Campus,3.5,healthy,,7.61,False,True,False
+STU0130,18,Sophomore,Engineering,South Hall,3.5,declining,4.0,6.32,False,False,False
+STU0131,18,Senior,Nursing,South Hall,3.43,declining,4.0,7.69,True,False,True
+STU0132,26,Junior,Psychology,West Hall,3.22,healthy,,7.19,False,True,True
+STU0133,19,Junior,Mathematics,West Hall,2.54,healthy,,8.01,False,False,False
+STU0134,24,Freshman,English,South Hall,3.22,crisis,8.0,6.15,False,False,False
+STU0135,19,Senior,Psychology,South Hall,2.97,declining,6.0,6.85,False,False,True
+STU0136,22,Junior,Biology,East Hall,3.78,healthy,,8.47,False,True,False
+STU0137,26,Sophomore,English,East Hall,3.12,declining,8.0,6.48,False,False,False
+STU0138,19,Sophomore,Engineering,South Hall,3.14,declining,5.0,6.66,True,True,False
+STU0139,20,Senior,Economics,Graduate House,3.04,declining,4.0,7.43,False,False,False
+STU0140,28,Graduate,English,Off-Campus,3.03,crisis,12.0,7.19,True,False,False
+STU0141,28,Junior,Engineering,Graduate House,3.07,healthy,,8.03,True,False,False
+STU0142,18,Freshman,English,East Hall,2.8,crisis,11.0,4.76,True,False,False
+STU0143,27,Graduate,Political Science,West Hall,3.87,healthy,,6.3,False,False,False
+STU0144,18,Senior,Mathematics,Off-Campus,2.32,healthy,,8.06,False,False,False
+STU0145,18,Senior,Psychology,East Hall,3.66,healthy,,7.99,False,True,False
+STU0146,18,Sophomore,Economics,West Hall,4.0,healthy,,8.07,False,False,False
+STU0147,24,Senior,English,Off-Campus,2.86,crisis,10.0,6.34,False,False,False
+STU0148,23,Freshman,Political Science,Off-Campus,3.01,declining,4.0,6.43,True,True,False
+STU0149,20,Junior,Psychology,Graduate House,3.0,declining,8.0,7.5,False,False,False
+STU0150,28,Senior,Business,Graduate House,3.35,crisis,13.0,6.36,False,True,False
+STU0151,28,Junior,Business,Off-Campus,3.74,healthy,,8.41,False,False,False
+STU0152,26,Freshman,Nursing,Graduate House,2.7,healthy,,8.13,False,False,True
+STU0153,23,Senior,Biology,South Hall,3.18,crisis,9.0,7.45,False,True,False
+STU0154,26,Graduate,Political Science,North Hall,3.25,declining,4.0,6.19,False,False,False
+STU0155,24,Sophomore,Business,South Hall,3.29,declining,8.0,7.85,False,False,False
+STU0156,25,Freshman,Nursing,East Hall,3.74,crisis,9.0,8.68,False,True,False
+STU0157,25,Sophomore,Political Science,South Hall,3.15,declining,6.0,6.74,True,False,False
+STU0158,21,Junior,Mathematics,West Hall,3.81,healthy,,7.84,False,True,False
+STU0159,24,Sophomore,Biology,Graduate House,2.54,crisis,12.0,5.79,True,True,False
+STU0160,23,Graduate,Psychology,Off-Campus,2.68,healthy,,8.46,False,False,False
+STU0161,20,Junior,Economics,Graduate House,2.6,healthy,,7.53,True,False,False
+STU0162,21,Senior,English,North Hall,3.18,healthy,,7.6,False,False,False
+STU0163,19,Junior,Biology,North Hall,3.65,declining,7.0,7.83,True,True,False
+STU0164,20,Sophomore,Computer Science,East Hall,3.22,declining,6.0,6.2,False,False,False
+STU0165,25,Senior,Mathematics,North Hall,3.14,declining,9.0,7.18,False,True,True
+STU0166,26,Graduate,Political Science,West Hall,2.98,declining,5.0,6.71,True,True,False
+STU0167,18,Sophomore,Nursing,Off-Campus,3.8,healthy,,7.23,False,False,True
+STU0168,25,Graduate,Political Science,North Hall,2.37,healthy,,5.68,False,False,False
+STU0169,24,Freshman,Mathematics,East Hall,2.89,declining,6.0,6.87,True,False,False
+STU0170,26,Junior,Psychology,Graduate House,3.71,declining,4.0,8.78,False,False,False
+STU0171,18,Senior,Economics,North Hall,3.4,healthy,,8.38,False,False,True
+STU0172,18,Junior,Psychology,East Hall,3.05,healthy,,6.82,False,False,True
+STU0173,23,Sophomore,Computer Science,East Hall,3.66,crisis,12.0,6.44,False,False,True
+STU0174,28,Senior,Economics,Off-Campus,3.08,healthy,,6.94,False,True,False
+STU0175,25,Freshman,Engineering,South Hall,3.13,healthy,,8.06,True,True,True
+STU0176,22,Graduate,Nursing,Graduate House,2.64,healthy,,7.38,False,True,False
+STU0177,23,Freshman,English,East Hall,3.9,declining,6.0,7.75,True,False,False
+STU0178,25,Senior,English,South Hall,3.16,healthy,,6.13,False,False,False
+STU0179,22,Freshman,Nursing,North Hall,3.64,declining,8.0,7.56,False,False,True
+STU0180,23,Freshman,Psychology,East Hall,3.18,crisis,10.0,6.44,False,True,False
+STU0181,20,Senior,English,West Hall,3.5,declining,7.0,5.66,True,False,False
+STU0182,24,Junior,Computer Science,North Hall,3.34,healthy,,7.94,False,False,False
+STU0183,28,Sophomore,Computer Science,South Hall,2.81,healthy,,7.37,False,False,False
+STU0184,19,Sophomore,English,East Hall,3.39,crisis,9.0,7.83,True,False,False
+STU0185,25,Junior,English,West Hall,3.61,crisis,13.0,8.47,False,False,False
+STU0186,24,Junior,Engineering,South Hall,3.21,healthy,,6.33,False,True,True
+STU0187,26,Senior,Political Science,North Hall,2.9,healthy,,8.21,False,True,False
+STU0188,22,Senior,Biology,North Hall,2.66,crisis,12.0,5.88,True,True,True
+STU0189,25,Freshman,English,Off-Campus,4.0,healthy,,7.02,False,True,False
+STU0190,22,Sophomore,Business,East Hall,3.48,healthy,,8.19,False,True,True
+STU0191,21,Senior,Computer Science,East Hall,3.16,declining,5.0,7.31,False,False,False
+STU0192,20,Graduate,Psychology,North Hall,3.91,declining,8.0,6.57,True,False,False
+STU0193,24,Senior,Mathematics,North Hall,2.98,declining,8.0,8.83,True,True,True
+STU0194,28,Graduate,English,South Hall,2.57,crisis,11.0,7.42,False,False,False
+STU0195,20,Sophomore,Nursing,Graduate House,3.45,healthy,,7.22,False,True,True
+STU0196,20,Junior,Business,South Hall,3.44,healthy,,7.94,False,False,False
+STU0197,26,Junior,Psychology,East Hall,3.38,healthy,,8.25,False,False,True
+STU0198,28,Junior,Mathematics,Graduate House,3.28,healthy,,7.74,True,False,False
+STU0199,27,Sophomore,Business,Off-Campus,3.62,healthy,,8.02,False,False,False
+STU0200,18,Freshman,Psychology,North Hall,3.21,crisis,12.0,6.83,False,False,True
+STU0201,27,Senior,Mathematics,Off-Campus,3.02,declining,5.0,6.74,True,False,False
+STU0202,22,Senior,Biology,Off-Campus,3.01,declining,9.0,6.92,False,False,False
+STU0203,25,Senior,Economics,West Hall,3.02,declining,5.0,6.39,True,False,False
+STU0204,23,Junior,Nursing,South Hall,2.61,crisis,13.0,7.83,False,False,True
+STU0205,21,Senior,Psychology,East Hall,3.63,healthy,,8.01,False,True,True
+STU0206,27,Senior,Biology,South Hall,3.05,crisis,11.0,9.0,False,False,False
+STU0207,21,Sophomore,Economics,Graduate House,2.99,healthy,,7.44,False,False,False
+STU0208,19,Senior,Political Science,West Hall,2.83,healthy,,7.46,False,True,False
+STU0209,18,Junior,Economics,Graduate House,3.29,healthy,,7.0,False,False,False
+STU0210,26,Freshman,Psychology,West Hall,3.11,healthy,,9.04,True,True,False
+STU0211,23,Freshman,Nursing,North Hall,3.35,declining,7.0,7.81,False,True,False
+STU0212,24,Graduate,Economics,Graduate House,4.0,declining,4.0,7.64,True,False,False
+STU0213,20,Freshman,Nursing,East Hall,2.98,crisis,8.0,6.18,False,True,False
+STU0214,21,Graduate,Political Science,West Hall,2.97,declining,5.0,8.27,False,True,True
+STU0215,25,Graduate,Economics,South Hall,3.45,crisis,10.0,6.25,False,False,False
+STU0216,23,Sophomore,Nursing,Graduate House,3.92,declining,8.0,5.84,False,True,False
+STU0217,26,Graduate,Economics,Off-Campus,3.33,healthy,,7.31,False,False,True
+STU0218,28,Freshman,Nursing,Graduate House,2.88,crisis,10.0,6.62,True,False,False
+STU0219,18,Graduate,Economics,East Hall,3.92,crisis,13.0,6.77,False,False,False
+STU0220,27,Sophomore,Computer Science,Graduate House,3.68,healthy,,7.39,False,False,False
+STU0221,24,Sophomore,Biology,North Hall,3.62,healthy,,9.82,False,False,True
+STU0222,23,Senior,Business,West Hall,3.06,crisis,11.0,7.38,False,False,False
+STU0223,25,Freshman,Business,Graduate House,3.4,healthy,,8.27,False,True,False
+STU0224,24,Junior,Business,West Hall,3.46,declining,8.0,8.25,False,True,False
+STU0225,28,Junior,Mathematics,West Hall,2.87,healthy,,7.67,False,True,False
+STU0226,22,Junior,Biology,Off-Campus,3.71,crisis,9.0,6.83,False,True,False
+STU0227,22,Junior,Psychology,Graduate House,3.5,healthy,,7.95,False,False,False
+STU0228,20,Junior,Computer Science,East Hall,3.29,declining,6.0,9.15,False,True,False
+STU0229,28,Junior,Economics,South Hall,3.31,healthy,,8.0,False,False,False
+STU0230,22,Sophomore,Psychology,Graduate House,3.28,crisis,13.0,6.35,False,True,True
+STU0231,21,Sophomore,Computer Science,North Hall,2.92,crisis,12.0,6.93,False,False,True
+STU0232,18,Graduate,Business,West Hall,3.35,crisis,9.0,6.24,False,False,False
+STU0233,28,Sophomore,Engineering,East Hall,3.95,healthy,,9.05,False,True,False
+STU0234,27,Sophomore,Political Science,Off-Campus,3.0,crisis,13.0,7.24,False,False,False
+STU0235,20,Senior,Business,North Hall,2.97,healthy,,6.98,False,False,False
+STU0236,22,Freshman,Computer Science,East Hall,3.16,declining,9.0,7.99,False,True,False
+STU0237,22,Senior,Political Science,Graduate House,2.92,healthy,,9.28,False,False,False
+STU0238,22,Sophomore,Psychology,East Hall,3.34,crisis,11.0,6.56,True,False,True
+STU0239,20,Freshman,English,East Hall,3.65,healthy,,6.8,False,False,True
+STU0240,28,Senior,Nursing,Graduate House,3.38,healthy,,8.07,False,False,True
+STU0241,25,Junior,Biology,North Hall,3.48,crisis,9.0,7.0,True,True,False
+STU0242,23,Junior,Mathematics,Off-Campus,3.92,healthy,,7.73,False,True,False
+STU0243,21,Freshman,Psychology,West Hall,2.93,healthy,,7.77,False,False,False
+STU0244,22,Freshman,Engineering,East Hall,2.44,healthy,,8.47,False,True,True
+STU0245,20,Senior,Mathematics,East Hall,3.5,healthy,,7.44,False,False,False
+STU0246,26,Sophomore,Biology,Off-Campus,3.18,healthy,,8.43,False,False,True
+STU0247,25,Graduate,English,North Hall,3.55,healthy,,7.8,False,True,False
+STU0248,21,Graduate,Political Science,South Hall,2.38,crisis,12.0,7.01,True,False,False
+STU0249,28,Sophomore,Mathematics,West Hall,3.09,healthy,,7.6,True,False,False
+STU0250,25,Sophomore,Political Science,West Hall,3.43,healthy,,9.24,False,True,False
+STU0251,22,Freshman,Nursing,East Hall,2.94,healthy,,8.92,False,False,False
+STU0252,24,Junior,Psychology,Graduate House,3.45,crisis,8.0,7.7,False,False,True
+STU0253,18,Junior,Nursing,South Hall,3.28,crisis,11.0,8.12,False,False,False
+STU0254,24,Junior,Nursing,West Hall,3.28,crisis,13.0,8.54,False,False,False
+STU0255,28,Graduate,Business,Off-Campus,3.37,crisis,13.0,6.48,False,True,False
+STU0256,24,Graduate,Business,Off-Campus,4.0,healthy,,8.22,False,False,False
+STU0257,25,Graduate,Nursing,Graduate House,3.25,declining,6.0,7.59,True,True,False
+STU0258,22,Sophomore,Psychology,North Hall,2.53,crisis,9.0,6.54,False,False,False
+STU0259,18,Sophomore,Biology,North Hall,3.83,healthy,,8.12,True,True,False
+STU0260,18,Sophomore,Computer Science,West Hall,3.62,declining,9.0,5.88,False,False,False
+STU0261,18,Sophomore,Political Science,East Hall,3.18,healthy,,9.15,False,False,False
+STU0262,27,Junior,Biology,East Hall,2.57,declining,8.0,8.0,False,False,False
+STU0263,24,Junior,Engineering,North Hall,3.36,healthy,,8.98,False,False,False
+STU0264,28,Senior,Political Science,West Hall,2.93,declining,5.0,7.43,True,True,False
+STU0265,24,Graduate,English,Off-Campus,3.05,healthy,,7.78,False,True,False
+STU0266,25,Sophomore,Biology,East Hall,2.5,crisis,12.0,7.95,False,True,False
+STU0267,26,Senior,Nursing,Graduate House,3.66,crisis,8.0,5.51,False,False,True
+STU0268,28,Freshman,Economics,East Hall,3.39,declining,6.0,7.51,True,False,True
+STU0269,24,Graduate,Mathematics,North Hall,3.0,declining,6.0,6.05,False,True,False
+STU0270,28,Graduate,Biology,West Hall,3.54,healthy,,6.55,False,False,False
+STU0271,18,Sophomore,Biology,Off-Campus,4.0,healthy,,7.52,True,False,False
+STU0272,27,Sophomore,Nursing,South Hall,3.3,declining,5.0,7.59,False,False,False
+STU0273,26,Junior,Engineering,East Hall,3.19,healthy,,7.59,False,False,False
+STU0274,25,Junior,Biology,East Hall,3.17,declining,9.0,7.25,True,True,False
+STU0275,20,Freshman,Engineering,Graduate House,3.34,healthy,,7.86,False,False,False
+STU0276,20,Sophomore,English,South Hall,3.14,healthy,,8.6,False,False,False
+STU0277,28,Junior,Engineering,West Hall,2.78,declining,9.0,6.26,False,False,False
+STU0278,20,Junior,Business,South Hall,3.29,healthy,,7.3,False,False,False
+STU0279,28,Freshman,Political Science,North Hall,3.35,declining,8.0,7.65,False,True,False
+STU0280,18,Senior,Business,Off-Campus,3.62,declining,4.0,7.15,True,False,True
+STU0281,26,Senior,English,North Hall,2.74,healthy,,8.68,False,False,False
+STU0282,25,Senior,Computer Science,North Hall,2.9,healthy,,9.11,False,False,True
+STU0283,22,Graduate,Engineering,North Hall,3.37,declining,9.0,7.5,False,False,False
+STU0284,19,Freshman,Political Science,South Hall,3.59,declining,5.0,7.61,True,False,True
+STU0285,22,Senior,Psychology,East Hall,3.48,declining,6.0,6.1,False,False,True
+STU0286,21,Junior,Psychology,Off-Campus,3.25,declining,9.0,8.44,False,False,True
+STU0287,24,Senior,Political Science,West Hall,2.62,declining,7.0,7.21,True,True,True
+STU0288,25,Senior,English,Graduate House,2.34,healthy,,9.08,False,False,False
+STU0289,21,Sophomore,Mathematics,West Hall,3.6,declining,4.0,6.01,True,False,False
+STU0290,22,Graduate,Mathematics,Off-Campus,3.07,healthy,,7.25,True,False,False
+STU0291,21,Graduate,Business,Off-Campus,2.54,healthy,,5.8,False,False,False
+STU0292,27,Sophomore,Mathematics,West Hall,3.43,healthy,,8.62,False,False,False
+STU0293,20,Freshman,Political Science,Off-Campus,3.31,declining,9.0,7.97,False,True,False
+STU0294,23,Graduate,Mathematics,Graduate House,3.09,crisis,8.0,6.05,True,False,True
+STU0295,22,Senior,Economics,South Hall,2.76,healthy,,6.45,False,False,False
+STU0296,28,Graduate,Nursing,North Hall,2.57,healthy,,7.94,False,True,True
+STU0297,19,Junior,Business,West Hall,3.11,crisis,8.0,5.82,False,False,False
+STU0298,23,Freshman,Psychology,North Hall,2.67,declining,6.0,6.33,False,False,False
+STU0299,19,Sophomore,Psychology,South Hall,3.38,healthy,,7.32,False,False,False
+STU0300,19,Freshman,Psychology,East Hall,3.75,healthy,,7.78,False,False,False
+STU0301,24,Freshman,Engineering,West Hall,3.42,healthy,,7.9,False,True,False
+STU0302,21,Graduate,Political Science,South Hall,2.93,healthy,,7.84,False,True,True
+STU0303,25,Sophomore,Psychology,South Hall,2.92,declining,6.0,8.77,False,False,False
+STU0304,23,Junior,Biology,Off-Campus,3.7,declining,4.0,8.01,False,False,True
+STU0305,19,Sophomore,Engineering,North Hall,4.0,healthy,,7.26,False,True,False
+STU0306,25,Junior,Nursing,Off-Campus,3.37,declining,6.0,7.48,False,True,False
+STU0307,21,Senior,English,South Hall,3.14,healthy,,7.65,False,False,False
+STU0308,28,Senior,Mathematics,South Hall,2.65,declining,9.0,9.19,True,True,False
+STU0309,23,Freshman,Mathematics,South Hall,3.86,healthy,,7.73,False,False,False
+STU0310,18,Senior,Biology,West Hall,3.85,declining,8.0,6.7,False,False,True
+STU0311,28,Senior,Business,Off-Campus,2.79,declining,7.0,7.02,True,True,True
+STU0312,24,Senior,Psychology,West Hall,2.89,healthy,,7.28,False,False,False
+STU0313,26,Senior,Political Science,North Hall,3.53,healthy,,7.99,False,False,False
+STU0314,27,Freshman,Psychology,South Hall,2.72,declining,8.0,7.54,False,False,False
+STU0315,27,Senior,English,West Hall,3.18,crisis,8.0,6.09,True,True,True
+STU0316,26,Graduate,Mathematics,Off-Campus,2.83,declining,9.0,7.27,False,False,False
+STU0317,27,Graduate,Business,East Hall,2.84,declining,9.0,5.93,False,False,False
+STU0318,19,Freshman,Business,East Hall,3.44,healthy,,7.21,False,False,True
+STU0319,25,Junior,Economics,North Hall,3.26,healthy,,6.93,False,False,False
+STU0320,18,Freshman,Computer Science,East Hall,3.08,declining,6.0,7.55,False,False,True
+STU0321,21,Graduate,Business,Graduate House,3.58,healthy,,7.91,False,False,False
+STU0322,24,Sophomore,Business,Off-Campus,3.4,declining,5.0,6.0,False,False,False
+STU0323,25,Graduate,Nursing,West Hall,4.0,crisis,9.0,7.19,True,True,True
+STU0324,19,Graduate,Psychology,Graduate House,3.16,healthy,,7.8,False,True,False
+STU0325,28,Senior,Political Science,Off-Campus,3.33,crisis,10.0,7.07,True,False,False
+STU0326,19,Junior,English,West Hall,2.9,healthy,,7.27,False,False,False
+STU0327,22,Graduate,Mathematics,North Hall,3.2,healthy,,8.23,False,True,True
+STU0328,20,Junior,Business,Graduate House,3.53,crisis,8.0,6.77,True,False,False
+STU0329,20,Senior,Political Science,Off-Campus,2.68,crisis,11.0,6.81,False,False,True
+STU0330,25,Junior,Business,South Hall,3.13,crisis,9.0,6.19,True,False,True
+STU0331,18,Senior,Business,South Hall,3.39,declining,6.0,7.68,False,False,False
+STU0332,24,Senior,Nursing,Off-Campus,3.14,crisis,11.0,5.86,False,False,True
+STU0333,21,Junior,Computer Science,East Hall,3.69,crisis,8.0,8.33,True,True,False
+STU0334,27,Senior,Political Science,Graduate House,3.07,healthy,,7.63,True,True,False
+STU0335,23,Graduate,Computer Science,Off-Campus,3.27,healthy,,7.31,False,True,False
+STU0336,28,Sophomore,Engineering,North Hall,3.68,declining,9.0,7.2,False,True,False
+STU0337,25,Freshman,Biology,South Hall,3.57,healthy,,8.56,False,False,False
+STU0338,27,Senior,Business,Graduate House,2.48,declining,9.0,7.0,True,True,True
+STU0339,18,Graduate,English,Graduate House,2.16,healthy,,8.23,False,False,False
+STU0340,22,Junior,Mathematics,East Hall,3.27,crisis,13.0,5.32,False,False,False
+STU0341,19,Sophomore,Nursing,North Hall,2.81,healthy,,7.79,False,False,True
+STU0342,20,Sophomore,Business,Off-Campus,2.83,healthy,,8.76,False,True,False
+STU0343,24,Senior,Business,Graduate House,3.88,healthy,,7.45,False,False,False
+STU0344,28,Freshman,Nursing,Graduate House,3.12,declining,4.0,5.75,False,False,False
+STU0345,25,Junior,Mathematics,North Hall,3.93,crisis,11.0,6.19,False,False,True
+STU0346,28,Junior,Psychology,Graduate House,2.96,crisis,11.0,8.96,True,False,False
+STU0347,22,Junior,Engineering,East Hall,3.82,crisis,11.0,8.1,False,True,False
+STU0348,23,Freshman,Computer Science,North Hall,2.93,healthy,,7.83,False,False,True
+STU0349,20,Senior,Economics,North Hall,3.27,healthy,,9.41,False,False,False
+STU0350,20,Junior,Business,East Hall,2.94,healthy,,6.72,True,False,True
+STU0351,28,Sophomore,Computer Science,West Hall,3.49,healthy,,6.96,False,False,False
+STU0352,28,Freshman,Psychology,North Hall,3.8,declining,7.0,6.52,True,True,False
+STU0353,28,Senior,Computer Science,North Hall,3.42,declining,8.0,6.97,False,False,False
+STU0354,24,Sophomore,Economics,North Hall,3.57,healthy,,8.16,False,True,False
+STU0355,23,Junior,Engineering,South Hall,3.4,declining,4.0,7.44,True,False,False
+STU0356,28,Sophomore,Psychology,Graduate House,2.86,crisis,13.0,6.44,False,False,True
+STU0357,23,Sophomore,Business,West Hall,2.76,healthy,,6.96,False,False,True
+STU0358,20,Freshman,Mathematics,Off-Campus,3.53,declining,4.0,6.95,True,False,False
+STU0359,20,Sophomore,Engineering,Off-Campus,3.31,healthy,,8.49,True,False,False
+STU0360,22,Freshman,Engineering,South Hall,3.49,declining,8.0,8.65,False,False,False
+STU0361,22,Freshman,Biology,West Hall,2.68,healthy,,8.33,False,True,False
+STU0362,26,Freshman,English,East Hall,3.43,declining,4.0,6.61,True,False,False
+STU0363,26,Sophomore,Economics,North Hall,3.88,crisis,10.0,7.11,True,True,True
+STU0364,18,Freshman,Nursing,Graduate House,2.5,healthy,,7.99,False,False,False
+STU0365,24,Freshman,Political Science,Graduate House,3.47,crisis,11.0,8.09,False,True,False
+STU0366,21,Sophomore,Political Science,East Hall,2.86,crisis,12.0,6.59,True,False,False
+STU0367,28,Freshman,Engineering,Off-Campus,3.36,healthy,,7.34,False,False,True
+STU0368,21,Freshman,Nursing,North Hall,2.96,healthy,,6.84,False,False,False
+STU0369,28,Sophomore,Psychology,North Hall,3.46,declining,9.0,7.21,False,False,True
+STU0370,23,Graduate,Political Science,Off-Campus,3.03,healthy,,7.7,False,False,False
+STU0371,19,Freshman,English,West Hall,3.04,declining,6.0,6.86,True,True,False
+STU0372,28,Freshman,Economics,West Hall,2.5,declining,8.0,8.04,False,True,False
+STU0373,23,Sophomore,Engineering,North Hall,4.0,declining,5.0,8.34,False,False,True
+STU0374,26,Freshman,Computer Science,North Hall,4.0,declining,9.0,7.37,True,False,False
+STU0375,20,Freshman,Political Science,Off-Campus,3.44,declining,5.0,8.29,False,False,False
+STU0376,23,Junior,Psychology,Graduate House,3.2,declining,7.0,6.7,True,False,False
+STU0377,20,Sophomore,Political Science,North Hall,3.58,healthy,,7.66,False,True,False
+STU0378,22,Junior,English,North Hall,3.12,healthy,,7.87,False,True,True
+STU0379,27,Junior,Mathematics,South Hall,3.15,healthy,,7.23,False,False,False
+STU0380,21,Graduate,Biology,South Hall,3.94,healthy,,9.01,True,False,True
+STU0381,23,Freshman,English,North Hall,2.82,healthy,,8.78,False,False,False
+STU0382,19,Sophomore,Political Science,South Hall,3.82,crisis,10.0,8.68,False,False,False
+STU0383,20,Junior,Psychology,North Hall,2.49,healthy,,7.41,False,False,False
+STU0384,23,Senior,Psychology,Graduate House,2.56,healthy,,8.06,True,True,False
+STU0385,19,Graduate,Mathematics,North Hall,2.05,healthy,,8.21,False,False,True
+STU0386,23,Senior,English,East Hall,3.02,declining,6.0,8.8,False,True,False
+STU0387,27,Freshman,Business,North Hall,3.32,crisis,9.0,5.8,True,False,False
+STU0388,23,Sophomore,Economics,East Hall,3.12,declining,8.0,8.3,False,False,True
+STU0389,22,Graduate,Computer Science,South Hall,3.35,declining,9.0,6.46,False,True,True
+STU0390,23,Senior,Political Science,North Hall,3.09,crisis,9.0,8.29,False,True,False
+STU0391,18,Senior,Economics,Graduate House,3.55,healthy,,7.78,False,True,False
+STU0392,19,Freshman,Computer Science,South Hall,3.41,crisis,9.0,6.87,True,False,False
+STU0393,28,Freshman,Mathematics,Graduate House,2.7,healthy,,6.55,False,False,True
+STU0394,21,Senior,Business,North Hall,3.19,crisis,8.0,7.27,False,False,False
+STU0395,25,Freshman,Business,Graduate House,2.88,crisis,8.0,6.07,False,False,False
+STU0396,28,Senior,Business,East Hall,3.22,crisis,11.0,5.78,True,True,True
+STU0397,18,Graduate,Mathematics,Graduate House,3.05,declining,5.0,7.82,True,True,False
+STU0398,26,Senior,Computer Science,North Hall,2.03,healthy,,7.14,False,True,True
+STU0399,21,Graduate,Computer Science,West Hall,2.8,crisis,12.0,4.44,False,False,False
+STU0400,23,Graduate,Political Science,East Hall,2.91,declining,7.0,9.05,True,True,False
+STU0401,21,Freshman,Engineering,North Hall,2.88,healthy,,7.65,False,False,False
+STU0402,21,Sophomore,Psychology,South Hall,3.85,declining,8.0,6.34,False,True,False
+STU0403,18,Sophomore,Mathematics,West Hall,2.57,declining,9.0,6.97,True,False,False
+STU0404,21,Graduate,English,Off-Campus,4.0,crisis,9.0,6.62,False,False,True
+STU0405,23,Graduate,Mathematics,South Hall,3.66,healthy,,8.04,False,True,False
+STU0406,26,Junior,Business,West Hall,2.93,declining,7.0,5.91,True,True,False
+STU0407,18,Graduate,Economics,North Hall,3.71,healthy,,9.3,False,False,False
+STU0408,23,Sophomore,English,North Hall,2.86,healthy,,7.85,True,False,False
+STU0409,19,Graduate,English,North Hall,3.04,healthy,,7.29,False,False,False
+STU0410,19,Junior,Engineering,East Hall,2.77,healthy,,7.04,True,True,False
+STU0411,28,Senior,English,South Hall,3.38,healthy,,7.82,False,False,False
+STU0412,23,Sophomore,Mathematics,South Hall,3.59,declining,8.0,7.59,True,False,False
+STU0413,20,Freshman,Mathematics,West Hall,3.33,healthy,,8.75,False,False,False
+STU0414,27,Junior,Mathematics,South Hall,3.08,crisis,9.0,7.14,False,True,False
+STU0415,19,Sophomore,English,East Hall,3.66,crisis,10.0,5.79,True,False,True
+STU0416,28,Junior,Economics,North Hall,2.96,healthy,,8.85,False,True,True
+STU0417,19,Freshman,Computer Science,West Hall,3.0,crisis,10.0,5.8,False,False,True
+STU0418,25,Senior,English,Graduate House,3.05,crisis,11.0,6.56,True,False,False
+STU0419,27,Sophomore,Business,West Hall,3.07,healthy,,7.49,True,False,False
+STU0420,22,Freshman,Psychology,East Hall,3.03,declining,6.0,8.57,True,False,False
+STU0421,26,Freshman,English,Graduate House,3.33,healthy,,8.12,False,False,False
+STU0422,28,Sophomore,Mathematics,West Hall,3.28,declining,7.0,8.27,True,True,True
+STU0423,21,Senior,Political Science,Off-Campus,3.01,healthy,,8.03,False,False,False
+STU0424,22,Sophomore,Psychology,North Hall,3.98,healthy,,8.5,False,False,False
+STU0425,23,Freshman,Nursing,North Hall,3.27,declining,4.0,6.59,True,False,False
+STU0426,21,Freshman,Computer Science,South Hall,3.64,healthy,,8.08,False,True,True
+STU0427,22,Senior,Economics,West Hall,3.96,declining,4.0,6.98,False,True,False
+STU0428,24,Sophomore,English,West Hall,3.15,healthy,,7.69,False,False,True
+STU0429,22,Sophomore,Engineering,Graduate House,3.16,declining,7.0,7.96,True,False,False
+STU0430,28,Junior,Political Science,West Hall,3.03,declining,4.0,7.37,False,False,False
+STU0431,26,Senior,Political Science,Off-Campus,3.45,crisis,11.0,7.54,False,False,False
+STU0432,25,Junior,Psychology,West Hall,3.52,healthy,,7.05,False,False,False
+STU0433,27,Graduate,Business,North Hall,3.06,declining,8.0,8.85,False,False,False
+STU0434,20,Sophomore,Biology,South Hall,2.55,healthy,,7.78,True,True,False
+STU0435,21,Sophomore,Mathematics,East Hall,3.88,healthy,,6.96,False,False,False
+STU0436,19,Senior,Political Science,West Hall,3.66,healthy,,7.72,False,False,False
+STU0437,27,Graduate,Political Science,West Hall,3.4,declining,4.0,7.41,True,True,False
+STU0438,27,Freshman,Psychology,Graduate House,3.47,healthy,,7.95,False,False,False
+STU0439,24,Junior,Nursing,Off-Campus,3.75,declining,6.0,5.55,False,False,True
+STU0440,22,Senior,Business,Graduate House,3.73,healthy,,7.69,False,False,True
+STU0441,21,Freshman,Economics,East Hall,2.56,crisis,10.0,6.88,False,True,False
+STU0442,22,Junior,Engineering,West Hall,3.13,healthy,,7.6,False,False,False
+STU0443,20,Junior,Economics,East Hall,3.88,declining,5.0,7.7,True,False,False
+STU0444,21,Senior,Biology,West Hall,2.67,healthy,,7.3,False,False,False
+STU0445,26,Sophomore,Psychology,East Hall,2.92,crisis,8.0,6.37,False,False,False
+STU0446,26,Graduate,Computer Science,South Hall,3.5,healthy,,6.67,False,False,False
+STU0447,21,Freshman,Economics,North Hall,2.9,healthy,,7.87,False,False,True
+STU0448,25,Graduate,Nursing,Off-Campus,3.25,healthy,,8.06,False,False,True
+STU0449,27,Senior,Business,West Hall,2.9,crisis,11.0,7.01,False,True,True
+STU0450,19,Junior,Computer Science,West Hall,3.21,crisis,10.0,7.88,True,False,False
+STU0451,21,Sophomore,Biology,Off-Campus,2.59,healthy,,9.32,False,False,False
+STU0452,18,Senior,Business,Off-Campus,3.4,declining,9.0,5.77,True,False,True
+STU0453,27,Junior,Engineering,West Hall,3.26,healthy,,6.54,False,False,False
+STU0454,21,Senior,Engineering,Off-Campus,2.84,healthy,,9.09,False,False,False
+STU0455,26,Junior,Political Science,Off-Campus,2.81,crisis,8.0,6.59,False,True,False
+STU0456,25,Freshman,English,East Hall,2.94,healthy,,7.69,False,False,True
+STU0457,28,Junior,Biology,South Hall,3.76,crisis,13.0,5.71,False,True,True
+STU0458,24,Junior,Business,Off-Campus,3.29,declining,8.0,7.22,True,False,False
+STU0459,24,Senior,Nursing,Off-Campus,3.34,healthy,,8.56,True,False,False
+STU0460,23,Sophomore,Political Science,Off-Campus,3.12,crisis,9.0,6.77,False,False,False
+STU0461,22,Sophomore,Political Science,South Hall,3.24,declining,8.0,5.51,True,False,False
+STU0462,26,Sophomore,English,Off-Campus,2.85,healthy,,7.93,True,False,False
+STU0463,24,Junior,English,East Hall,3.91,crisis,10.0,6.15,False,False,True
+STU0464,28,Graduate,Mathematics,Graduate House,2.93,crisis,8.0,7.8,True,False,False
+STU0465,28,Senior,Political Science,East Hall,3.3,healthy,,8.91,False,False,True
+STU0466,23,Senior,Mathematics,West Hall,2.5,declining,5.0,7.93,True,False,True
+STU0467,19,Senior,English,Off-Campus,3.65,healthy,,8.84,False,True,True
+STU0468,25,Junior,Biology,South Hall,3.11,healthy,,6.93,False,True,False
+STU0469,19,Sophomore,Mathematics,West Hall,3.76,healthy,,7.55,False,False,False
+STU0470,18,Freshman,Political Science,South Hall,2.88,crisis,11.0,5.12,False,False,False
+STU0471,21,Freshman,Computer Science,Off-Campus,2.96,declining,8.0,8.65,False,True,False
+STU0472,20,Freshman,Nursing,Graduate House,3.37,declining,6.0,7.45,False,True,False
+STU0473,22,Senior,Political Science,Graduate House,3.2,declining,6.0,7.19,False,False,False
+STU0474,20,Junior,Economics,East Hall,3.05,healthy,,7.45,False,True,False
+STU0475,18,Sophomore,Biology,Off-Campus,3.08,declining,7.0,8.64,False,True,True
+STU0476,26,Sophomore,Psychology,East Hall,3.35,healthy,,8.36,False,False,False
+STU0477,22,Graduate,Mathematics,North Hall,2.75,declining,9.0,7.6,False,True,True
+STU0478,18,Freshman,Nursing,West Hall,4.0,declining,4.0,7.33,True,False,False
+STU0479,20,Sophomore,Computer Science,East Hall,2.98,healthy,,8.31,False,True,False
+STU0480,27,Graduate,Business,West Hall,3.01,healthy,,7.17,False,True,False
+STU0481,19,Junior,Psychology,North Hall,3.3,healthy,,6.22,False,False,False
+STU0482,26,Sophomore,English,Off-Campus,3.09,healthy,,9.46,False,True,False
+STU0483,21,Senior,English,South Hall,3.4,healthy,,8.68,True,False,False
+STU0484,27,Senior,Business,North Hall,2.6,healthy,,7.43,False,True,False
+STU0485,28,Sophomore,Economics,East Hall,3.24,declining,6.0,7.62,True,True,False
+STU0486,18,Junior,English,Off-Campus,3.06,healthy,,8.05,False,False,True
+STU0487,18,Sophomore,Business,East Hall,3.19,declining,4.0,6.87,True,False,False
+STU0488,19,Junior,English,South Hall,3.7,crisis,13.0,5.03,True,False,False
+STU0489,25,Senior,Business,North Hall,3.75,crisis,11.0,6.2,True,False,False
+STU0490,19,Senior,Mathematics,West Hall,3.29,declining,5.0,9.5,False,False,True
+STU0491,24,Junior,Mathematics,North Hall,3.46,healthy,,7.76,False,False,False
+STU0492,25,Senior,Psychology,West Hall,3.14,declining,5.0,7.28,False,True,False
+STU0493,18,Graduate,Mathematics,Off-Campus,2.02,healthy,,7.64,False,False,False
+STU0494,23,Graduate,Political Science,Off-Campus,3.04,healthy,,8.32,False,True,False
+STU0495,21,Senior,English,Off-Campus,3.36,healthy,,8.7,False,False,False
+STU0496,26,Graduate,Computer Science,North Hall,3.54,healthy,,7.02,False,True,False
+STU0497,20,Freshman,Economics,East Hall,3.41,declining,7.0,7.66,True,False,True
+STU0498,21,Graduate,Nursing,West Hall,3.5,healthy,,7.29,False,True,False
+STU0499,27,Senior,Psychology,West Hall,3.63,healthy,,8.75,False,True,False
+STU0500,18,Freshman,Nursing,West Hall,2.9,declining,9.0,6.41,True,False,False

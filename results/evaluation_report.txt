@@ -1,0 +1,33 @@
+
+MindBridge — ML Risk Classifier Evaluation Report
+==================================================
+Model:        XGBoost (multi:softprob, 3 classes)
+Train period: Weeks 3–12
+Test period:  Weeks 13–16
+
+PERFORMANCE METRICS
+-------------------
+Accuracy:       0.999 (99.9%)
+F1 (weighted):  0.999
+F1 (macro):     0.982
+AUC-ROC:        1.000
+
+CLASSIFICATION REPORT
+---------------------
+              precision    recall  f1-score   support
+
+         Low      1.000     0.998     0.999      1000
+      Medium      0.900     1.000     0.947        18
+        High      1.000     1.000     1.000       982
+
+    accuracy                          0.999      2000
+   macro avg      0.967     0.999     0.982      2000
+weighted avg      0.999     0.999     0.999      2000
+
+
+CONFUSION MATRIX
+----------------
+             Low   Med   High
+Actual Low  : [998, 2, 0]
+Actual Med  : [0, 18, 0]
+Actual High : [0, 0, 982]
