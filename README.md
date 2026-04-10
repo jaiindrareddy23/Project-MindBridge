@@ -239,7 +239,7 @@ slope_sleep_hours     ██████████            0.209
 ## 👨‍💻 Author
 
 **Jai Indra Reddy Jonnala**
-M.S. Data Science — SUNY Albany (GPA: 3.8)
+M.S. Data Science — SUNY Albany
 
 [![GitHub](https://img.shields.io/badge/GitHub-jaiindrareddy23-black?style=flat&logo=github)](https://github.com/jaiindrareddy23)
 
@@ -253,12 +253,6 @@ M.S. Data Science — SUNY Albany (GPA: 3.8)
 - World Health Organization (2022). *World Mental Health Report.*
 - Lundberg, S. & Lee, S.I. (2017). *A unified approach to interpreting model predictions (SHAP). NeurIPS.*
 - Chen, T. & Guestrin, C. (2016). *XGBoost: A scalable tree boosting system. KDD.*
-
----
-
-## 📄 License
-
-MIT License — see [LICENSE](LICENSE) for details.
 
 ---
 
